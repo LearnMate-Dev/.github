@@ -2,7 +2,6 @@
 
 2024.09 ~ 12.17
 <br><br>
-# LEARN MATE
 
 ![147](https://github.com/user-attachments/assets/be2694a9-de36-4efe-bd4c-8ea25cdfc2ab)
 
@@ -26,82 +25,37 @@
 | UI 및 기능 구현 | 일기 작성, 감정 분석, 행동 요령 제안, 칭찬 카드 기능 구현 | 회원가입/로그인, 세부 일정 추천, 칭찬카드, 배포 |
 
 <br><br>
-## 2. 문제 제기
 
-### 경계선 지능인이란?
-- 지능 지수(IQ) 71~84로, 전체 학령 인구의 약 13% (약 600만 명)에 달하는 느린 학습자.
-- 비장애인 분류로 인해 복지 사각지대에 놓여 있음.
-- 감정 표현 및 의사소통이 서툴고, 계획·순서·목록화 등 논리적 조직화 능력이 부족.
+![71](https://github.com/user-attachments/assets/02c884b0-a40d-43c1-93d5-770e3e43e59f)
+![80](https://github.com/user-attachments/assets/02eff985-6dc8-4655-8889-e32cbdb378de)
+![82](https://github.com/user-attachments/assets/4c8ee2ae-6b4d-46df-992e-4311917ca412)
 
-### 문제 인식
-- 복지 서비스가 부족(비장애인 분류로 큰 지원이 없음).
-- 정부 매뉴얼 수준의 서비스 제공 → **상황별 유동적 대처가 어려움**.
-- 복지 사각지대 해소와 실질적인 생활 지원 필요.
-<br><br>
-## 3. 시장 분석 (PEST)
+![66](https://github.com/user-attachments/assets/996bcf7c-8850-459a-9fdd-f069c0483958)
+![86](https://github.com/user-attachments/assets/b5113837-ee87-4359-a8ef-6b2cb2dc04c1)
 
-### P (Political)
-- 정부가 경계선 지능인을 위한 **맞춤형 사례관리 서비스**, **평생교육 프로그램** 등을 운영하고 있으나 여전히 미비.
 
-### E (Economical)
-- **고용 기회 제한**: 일반 직무 수행이 어려워 비정규직·저임금 직종에 종사하는 경우가 많음.
-- **경제적 부담**: 교육, 치료, 지원 서비스를 위한 비용이 가정에 큰 부담이 됨.
+![94](https://github.com/user-attachments/assets/655f6456-a191-48f9-9143-102b25b59530)
+![139](https://github.com/user-attachments/assets/9ab5d34a-2e43-4e1f-81fd-7586a47848a9)
+![140](https://github.com/user-attachments/assets/c26d49fc-e43c-4a56-bb04-7233399a07d2)
+![141](https://github.com/user-attachments/assets/d9282c5b-40c3-41f9-96d3-d53a1a6a2021)
 
-### S (Social)
-- **사회적 인식 부족**: 느린 학습자를 이해하지 못하고 지원이 부재한 경우가 많으며, 차별과 편견의 원인이 됨.
-- **교육적 한계**: 일반 교육 시스템에서 적절한 지원을 받기 어려워 사회적 통합이 더딤.
+![142](https://github.com/user-attachments/assets/05252249-dd52-4cb9-b3fc-a5ce685bf331)
+![145](https://github.com/user-attachments/assets/9775bf69-aa42-4756-958f-bf9cb3a1fcf0)
 
-### T (Technological)
-- **Assistive Technology(AT)**: AI·보조공학 결합으로 장애인의 삶의 질을 높이는 사례가 늘고 있음. 경계선 지능인 대상 맞춤형 학습·일정 관리 등도 가능.
-<br><br>
-## 4. 해결 방안: **"경계선 지능인을 위한 집중 케어 시스템"**
+![143](https://github.com/user-attachments/assets/135a46b5-b852-495c-8448-2ac3e923aefd)
 
-1. **Daily 감정 분석 및 행동 요령 제안**
-   - 매일 일기 작성 → 감정 분석 및 LLM 기반 행동 요령 제안
-   - 사용자가 직접 일기를 통해 자기 감정을 성찰하고 상황 대처 전략을 얻을 수 있음
+![144](https://github.com/user-attachments/assets/57087aa4-a023-47da-a4a1-7aa68a313ac8)
+![146](https://github.com/user-attachments/assets/dabce3c0-e9ab-4fff-8282-b901f2074946)
 
-2. **세부 일정 추천**
-   - LLM을 통해 개인별 맞춤 일정 목록을 제안
-   - 논리적 조직화 능력이 떨어지는 경계선 지능인의 **Planning 능력** 향상을 지원
+![87](https://github.com/user-attachments/assets/f7e66e76-47c2-413f-803f-adc3239adbc7)
+![89](https://github.com/user-attachments/assets/4cce67bd-ca4f-4523-8170-f95da28c16c5)
 
-3. **감정 분석 레포트**
-   - 주간 단위로 감정 기록을 통합해 레포트 형태로 제공
-   - 자기 감정에 대한 메타인지 능력 성장에 기여
-<br><br>
-## 5. 유사 서비스 비교
+![90](https://github.com/user-attachments/assets/4a417d91-2153-47e9-9659-2ab7f0443da0)
+![91](https://github.com/user-attachments/assets/a7c70604-4352-4af4-bf61-0c2465c2e522)
 
-| 서비스명          | 주요 기능                                  | LearnMate와의 차이점                   |
-|:----------------:|:------------------------------------------:|:--------------------------------------:|
-| A 서비스         | 일기 기록, 커뮤니티                         | LLM을 활용한 행동 요령/계획 추천 부재  |
-| B 서비스         | 감정 분석, 일정 관리 일부 제공              | 경계선 지능인 전용 맞춤 기능 없음      |
-| **LearnMate**    | 감정 분석 & 일기 작성 + 행동 요령 제안 + 맞춤형 일정 추천 | 경계선 지능인 특화 집중 케어 시스템   |
+![88](https://github.com/user-attachments/assets/098f8c64-16ad-46f6-a743-26eec511b3f6)
+
+
 
 <br><br>
-## 6. 구현된 프로젝트 소개 (주요 기능)
 
-1. **일기**
-   - 하루 일기를 작성하면 감정 분석 및 행동 요령을 제공
-   - 사용자가 분석 감정 중 하나를 직접 선택 가능
-   - 분석 결과가 마음에 들지 않으면 재분석 기능 지원
-
-2. **투두 리스트**
-   - 일별 할 일 정리 + 일정 리스트 관리
-   - LLM을 통한 일정 추천 기능 적용 가능
-
-3. **감정 분석 레포트**
-   - 주간 단위 감정 기록을 레포트 형태로 저장
-   - 감정 추이 및 패턴 확인으로 자기 성찰 및 메타인지 능력 향상
-
-4. **칭찬 카드**
-   - 자신 또는 타인을 칭찬할 수 있는 카드 작성
-   - 긍정적 자존감과 대인관계 능력 향상에 기여
-<br><br>
-## 7. 기대 효과
-
-<img width="822" alt="image" src="https://github.com/user-attachments/assets/9d81113a-3d3b-431a-94df-accedf8ab1f7" />
-
-- **감정 메타 인지 능력 향상**  
-- **논리적 조직화 능력 향상**  
-- **사회 적응 능력 향상**  
-
-**LearnMate**로 경계선 지능인들이 더 나은 일상을 영위할 수 있도록 지원합니다.
