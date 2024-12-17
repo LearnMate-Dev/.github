@@ -1,13 +1,15 @@
 ## 🛠️ 오픈소스기반기초설계 프로젝트 : LearnMate
 
-2024.09 ~
+2024.09 ~ 12.17
 <br><br>
 # LEARN MATE
+
+![147](https://github.com/user-attachments/assets/be2694a9-de36-4efe-bd4c-8ea25cdfc2ab)
+
 
 **팀 번호: 8번**  
 **팀 이름: 부지런**
 <br><br>
-<img width="238" alt="image" src="https://github.com/user-attachments/assets/843b3df3-cccc-4618-aaea-61bea3f5b6ec" />
 > **서비스명 : LearnMate**  
 > “경계선 지능인들의 배움(Learn)을 도와주자(Mate).”
 
